@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Books For You</string>
+    <string name="action_search">Search Book</string>
+</resources>
